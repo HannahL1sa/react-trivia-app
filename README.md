@@ -1,12 +1,10 @@
 # Jamaican Trivia Game
 
-## About
-
-The Jamaican Trivia Game is designed to offer an entertaining way to explore the island's unique heritage while challenging players to delve into various aspects of Jamaican life.
+Jamaican Trivia Game is an engaging quiz that tests players on their knowledge of Jamaica's culture, history, and music. It's an entertaining way to dive into the island's unique heritage, offering a fun and interactive experience while learning fascinating facts about Jamaica
 
 ## Tech Stack
 
-List of technologies or frameworks used to build the website:
+List of technologies used in the project:
 
-- Frontend Framework: React
-- Build Tool: Vite
+- Frontend Framework: [React](https://react.dev/)
+- Build Tool: [Vite](https://vitejs.dev/)
