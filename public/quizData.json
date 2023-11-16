@@ -1,0 +1,64 @@
+[
+    {
+      "question": "Duppy know who fi frighten",
+      "image_path": null,
+      "choices": ["No one is immune to the consequences of their actions", "Speak softly and carry a big stick", "Actions speak louder than words", "Bullies target the most vulnerable people first"],
+      "answer": 3
+    },
+    {
+      "question": " What is the name of the annual music festival held in Montego Bay, Jamaica?",
+      "image_path": null,
+      "choices": ["Jamaica Jazz and Blues Festival", "Sting", "Reggae Sumfest", "Rebel Salute"],
+      "answer": 2
+    },
+    {
+      "question": "What is the traditional Jamaican style of cooking meat over an open flame or pit?",
+      "image_path": null,
+      "choices": ["Frying", "Jerking", "Baking", "Stewing"],
+      "answer": 1
+    },
+    {
+      "question": "Cow neva know di use a him tail til him lose it",
+      "image_path": null,
+      "choices": ["You don't appreciate what you have until it's gone", "It's never too late to learn", "Actions speak louder than words", "A little knowledge is a dangerous thing"],
+      "answer": 0
+    },
+    {
+      "question": "Identify this type of clarks.",
+      "image_path": "/images/clarks.jpg",
+      "choices": ["Wallabee", "Desert", "Bank Robber", "Clarks"],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of this Jonkunno character?",
+      "image_path": "/images/pitchy-patchy.jpg",
+      "choices": ["Pitchy Patchy", "Belly Woman", "Cow Head", "Devil"],
+      "answer": 0
+    },
+    {
+      "question": "Cockroach nuh business inna fowl fight",
+      "image_path": null,
+      "choices": ["I have no preference", "I'm not in the mood to choose", "I'm not easily swayed", "Avoid meddling in matters that are not your concern."],
+      "answer": 3
+    },
+    {
+      "question": "Which Jamaican dancehall artist released the hit song Temperature ?",
+      "image_path": null,
+      "choices": ["Busy Signal", "Valiant", "Mavado", "Sean Paul"],
+      "answer": 3
+    },
+    {
+      "question": "What is the national flower of Jamaica?",
+      "image_path": null,
+      "choices": ["Hibiscus", "Lignum Vitae", "Rose", "Daisy"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Prime Minister of Jamaica when it gained independence from Britain in 1962?",
+      "image_path": null,
+      "choices": ["Alexander Bustamante", "P.J. Patterson", "Edward Seaga", "Portia Simpson-Miller" ],
+      "answer": 0
+    }
+]
+
+  
