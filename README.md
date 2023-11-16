@@ -1,8 +1,12 @@
-# React + Vite
+# Jamaican Trivia Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+The Jamaican Trivia Game is designed to offer an entertaining way to explore the island's unique heritage while challenging players to delve into various aspects of Jamaican life.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+List of technologies or frameworks used to build the website:
+
+- Frontend Framework: React
+- Build Tool: Vite
